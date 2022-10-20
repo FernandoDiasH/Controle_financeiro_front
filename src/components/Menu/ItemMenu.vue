@@ -1,6 +1,5 @@
 <template>
     <li><a :href="url.url"> {{ url.nome  }}</a></li>
-
 </template>
 
 <script setup>
