@@ -1,5 +1,5 @@
 <template>
-    <p className="text-8xl ">
+    <p className="">
         Esse é meu footer 
     </p>
 

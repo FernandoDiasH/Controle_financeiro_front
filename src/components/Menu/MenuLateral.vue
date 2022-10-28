@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div className="ml-5">
         <ul>
             <li v-for="content, index in links" :key="index"><a :href="content.url">{{content.label}}</a></li>
         </ul>
